@@ -9,7 +9,8 @@ from web3 import Web3
 from web3.exceptions import TransactionNotFound
 from eth_account import Account
 from eth_account.messages import encode_defunct
-
+import shareithub
+from shareithub import shareithub
 from rich.console import Console
 from rich.panel import Panel
 from rich.rule import Rule
