@@ -1,4 +1,7 @@
 web3
-requests
+eth-account
 rich
-
+aiohttp
+aiohttp_socks
+fake-useragent
+pytz
